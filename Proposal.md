@@ -6,7 +6,7 @@ By: Benjamin Thom
 _A web application that provides users with a simple to use tool for finding and trading items by simply filtering trade items by their monetary value._ 
 * Example: _If a user were to add a $100 bicycle they would see trade offers for all items listed for $100-1$20. Items may include anything from a fishing pole and tackle box listed for $110 to a rare baseball card collection for $120._
 
-_**SwapSpace** provides users with a fun and tastfully simplictic trading experience!_
+_**SwapSpace** provides users with a fun and tastefully simplictic trading experience!_
 
 ### Minimum Viable Product
 * _An **NewItemForm.js** component with inputs for the item's (**Item.js**) **name**, **description**, **image(s)**, **monetaryValue** ($0-$20, $20-$40, $40-$60, ...), and **zipCode**_
