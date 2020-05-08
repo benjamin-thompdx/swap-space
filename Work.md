@@ -25,4 +25,4 @@
 * Update Project file structure with components
 
 **4:00 - 5:00 P.M.**
-* Walk through MERN stack Todo List tutorial
+* Walk through MERN stack Todo List tutorial - https://www.digitalocean.com/community/tutorials/getting-started-with-the-mern-stack
