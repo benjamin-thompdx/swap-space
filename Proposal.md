@@ -40,9 +40,3 @@ _**SwapSpace** provides users with a fun and tastfully simplictic trading experi
   * _**UpdateAccount** button_
   * _**DeleteAccount** button_
 * _Provide an option to filter the **TradeItemList.js** component by **zipCode**_
-
-### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-_No additional resources required at this time_
-
-### Is there anything else you'd like your instructor to know?
-_Not at this time_
