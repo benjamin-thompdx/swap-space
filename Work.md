@@ -22,4 +22,4 @@
 * Add component tree and wireframe design to README
 
 **3:30 P.M. - 4:00 P.M.**
-* Update Project file structure
+* Update Project file structure with components
