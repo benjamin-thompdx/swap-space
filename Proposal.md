@@ -1,47 +1,45 @@
-## Name of Student: 
-Benjamin Thom
+# SwapSpace
+ 
+#### By: Benjamin Thom
 
-## Name of Project: 
-SwapSpace
-
-## Project's Purpose or Goal:
-The project's purpose is to provide users with a simple way to trade items based on their perceived monetary value.
+## Purpose
+_The project's purpose is to provide users with a simple way to trade items based on their perceived monetary value._
 
 ## List the absolute minimum features the project requires to meet this purpose or goal:
-* An NewItemForm.js component with inputs for the item's (Item.js) name, description, image(s), monetaryValue ($0-$20, $20-$40, $40-$60, ...), and zipCode
-* A SeeTrades button
-* A TradeItemsList.js component with a list of items that match the same monetaryValue of the item being traded
-* A TradeItemDetail.js component with the trade item's name, description, image(s), monetary value, and zipCode
-* A ProposeTrade button
-* A SeeOtherTrades button
-* AddNewItem button that returns to the NewItemForm to create add a new item to trade
+* _An **NewItemForm.js** component with inputs for the item's (Item.js) **name**, **description**, **image(s)**, **monetaryValue** ($0-$20, $20-$40, $40-$60, ...), and **zipCode**_
+  * _A **SeeTrades** button_
+* _A **TradeItemsList.js** component with a list of items that match the same **monetaryValue** of the item being traded_
+* _A **TradeItemDetail.js** component with the trade item's name, description, image(s), monetary value, and zipCode_
+* _A ProposeTrade button_
+* _A SeeOtherTrades button_
+* _AddNewItem button that returns to the NewItemForm to create add a new item to trade_
 
 ## What tools, frameworks, libraries, APIs, modules and/or other resources will you use to create this MVP?
-* ReactJs
-* NodeJs
-* ExpressJs
-* Bootstrap
-* MongoDb
+* _ReactJS_
+* _NodeJS_
+* _ExpressJS_
+* _Bootstrap_
+* _MongoDb_
 
 ## If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next?
-* EditItemForm.js component with inputs to update an item's name, description, image(s), and monetary value ($0-$20, $20-$40, $40-$60, etc.)
-  * A UpdateItem button
-  * A DeleteItem button
-* RegisterForm.js component with inputs for a new user's (User.js) userName, password, and email
-  * CreateAccount button
-  * ReturnToLogin button
-* LoginForm.js component where current users can log in with their userName and password
-  * AccountLogin button
-  * ReturnToRegister button
-* AccountDetail.js component where current users can review their userName, password, and email
-  * EditAccount button
-* EditAccountForm.js component where current user can update user details (userName, password, or email) or delete account
-  * UpdateAccount button
-  * DeleteAccount button
-* Provide an option to filter the TradeItemList.js component by zipCode
+* _**EditItemForm.js** component with inputs to update an item's name, description, image(s), and monetary value ($0-$20, $20-$40, $40-$60, etc.)_
+  * _A UpdateItem button_
+  * _A DeleteItem button_
+* _RegisterForm.js component with inputs for a new user's (User.js) userName, password, and email_
+  * _CreateAccount button_
+  * _ReturnToLogin button_
+* _LoginForm.js component where current users can log in with their userName and password_
+  * _AccountLogin button_
+  * _ReturnToRegister button_
+* _AccountDetail.js component where current users can review their userName, password, and email_
+  * _EditAccount button_
+* _EditAccountForm.js component where current user can update user details (userName, password, or email) or delete account_
+  * _UpdateAccount button_
+  * _DeleteAccount button_
+* _Provide an option to filter the TradeItemList.js component by zipCode_
 
 ## What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
-No additional resources required at this time
+_No additional resources required at this time_
 
 ## Is there anything else you'd like your instructor to know?
-Not at this time
+_Not at this time_
