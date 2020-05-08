@@ -16,7 +16,10 @@
 * Update README custom styling
 * Prepare for lunch meeting with Alex from New Relic 
 
-**1:00 P.M. - 3:00 P.M.**
+**1:00 P.M. - 3:30 P.M.**
 * Create component tree
 * Create wireframe design
 * Add component tree and wireframe design to README
+
+**3:30 P.M. - 4:00 P.M.**
+* Update Project file structure
