@@ -23,3 +23,7 @@
 
 **3:30 P.M. - 4:00 P.M.**
 * Update Project file structure with components
+
+**4:00 - 5:00 P.M.**
+<!-- *Create project timeline
+*Reserch MERN stack -->
