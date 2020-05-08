@@ -8,7 +8,7 @@
 _This web application provides users with a simple to use tool for finding and trading items by simply filtering trade items by their monetary value and zip code._
 
 ## Component Tree
-![component tree]()
+![component tree](public/swap-space-component-tree.png)
 
 ## Wireframe Design
 ![wireframe]()
