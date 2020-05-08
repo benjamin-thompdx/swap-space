@@ -18,5 +18,5 @@
 
 **1:00 P.M. - 3:00 P.M.**
 * Create component tree
-* Create wireframe design
-* Add component tree and wireframe design to README
+<!-- * Create wireframe design
+* Add component tree and wireframe design to README -->
