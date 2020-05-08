@@ -1,6 +1,6 @@
 # SwapSpace
 
-### SwapSpace** is a ReactJS web application for trading items. May 8th-20th, 2020
+### SwapSpace is a ReactJS web application for trading items. May 8th-20th, 2020
 #### By: Benjamin Thom
 
 ## Description
