@@ -14,7 +14,7 @@
 **11:00 A.M. - 12:00 P.M.**
 * Update README description
 * Update README custom styling
-* Prepare for lunch meeting with Alexander Costa from New Relic 
+* Prepare for lunch meeting with Alex from New Relic 
 
 **1:00 P.M. - 3:00 P.M.**
 * Create component tree
