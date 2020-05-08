@@ -11,7 +11,7 @@ _This web application provides users with a simple to use tool for finding and t
 ![component tree](public/swap-space-component-tree.png)
 
 ## Wireframe Design
-![wireframe]()
+![wireframe](public/swap-space-wireframe-design.png)
 
 ## Specification User Stories
 * A user should be able to create trade items using a New Item Form with the following details:
