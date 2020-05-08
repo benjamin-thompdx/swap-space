@@ -14,3 +14,8 @@
 **11:00 A.M. - 12:00 P.M.**
 * Update README description
 * Update README custom styling
+
+**1:00 P.M. - 3:00 P.M.**
+* Create component tree
+* Create wireframe design
+* Add component tree and wireframe design to README
