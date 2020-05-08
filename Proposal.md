@@ -16,7 +16,7 @@ _**SwapSpace** provides users with a fun and tastefully simplictic trading exper
 
 ### What tools, frameworks, libraries, APIs, modules and/or other resources will you use to create this MVP?
 * **ReactJS** _will be used to build UI components that create the client-side of the web application._
-* **NodeJS** and **ExpressJS** _will work together to as the server-side of the web application to serve the frontend components._
+* **NodeJS** and **ExpressJS** _will work together as the server-side of the web application to serve the frontend components._
 * **MongoDb** _any interaction that causes a data change request is sent to the NodeJS based Express server, which grabs data from the MongoDB database if required, and returns the data to the frontend of the application, which is then displayed to the user._
 * **Bootstrap** _will be used to design the web application's typography, forms, buttons, navigation, images, etc._
 
