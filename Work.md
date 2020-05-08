@@ -25,5 +25,4 @@
 * Update Project file structure with components
 
 **4:00 - 5:00 P.M.**
-<!-- *Create project timeline
-*Reserch MERN stack -->
+* Walk through MERN stack Todo List tutorial
