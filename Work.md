@@ -11,3 +11,6 @@
 * Review proposal feedback and draft changes
 * Implement proposal updates
 
+**11:00 A.M. - 12:00 P.M.**
+* Update README description
+* Update README custom styling
