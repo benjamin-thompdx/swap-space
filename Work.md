@@ -26,3 +26,8 @@
 
 **4:00 - 5:00 P.M.**
 * Walk through MERN stack Todo List tutorial - https://www.digitalocean.com/community/tutorials/getting-started-with-the-mern-stack
+
+## Friday | May 15th, 2020
+
+**8:00 A.M. - 9:00 A.M.** 
+* Review project proposal and create project timeline
