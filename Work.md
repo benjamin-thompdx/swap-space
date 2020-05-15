@@ -42,3 +42,7 @@
 
 **1:00 P.M. - 5:00 P.M.**
 * Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
+
+**2:30 - 5:00 P.M.**
+* Walk through _The MERN Stack tutorial_ Part 2: Setting Up The Project - https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-2/
+* Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
