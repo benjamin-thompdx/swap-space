@@ -37,11 +37,8 @@
 * Install NodeJs v12.16.3 on local computer
 * Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
 
-**10:00 A.M. - 11:00 A.M.**
+**10:00 A.M. - 12:00 P.M.**
 * Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
 
-**11:00 A.M. - 12:00 P.M.**
-* Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
-
-**1:00 P.M. - 3:30 P.M.**
+**1:00 P.M. - 5:00 P.M.**
 * Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
