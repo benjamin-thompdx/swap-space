@@ -39,3 +39,6 @@
 
 **10:00 A.M. - 11:00 A.M.**
 * Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
+
+**11:00 A.M. - 12:00 A.M.**
+* Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
