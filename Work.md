@@ -35,3 +35,4 @@
 **9:00 A.M. - 10:00 A.M.**
 * Walk through _The MERN Stack tutorial_ Part 1: Setting Up The Project - https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/
 * Install NodeJs v12.16.3 on local computer
+* Create react mern-todo-app project
