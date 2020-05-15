@@ -31,3 +31,6 @@
 
 **8:00 A.M. - 9:00 A.M.** 
 * Review project proposal and create project timeline
+
+**9:00 A.M. - 10:00 A.M.**
+* Walk through _The MERN Stack tutorial_ Part 1: Setting Up The Project - https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/
