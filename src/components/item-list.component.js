@@ -5,7 +5,7 @@ export default class ItemList extends Component {
   render() {
     return (
       <div>
-        <p>Trade Item List</p>
+        <p>Item List</p>
       </div>
     )
   }
