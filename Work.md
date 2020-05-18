@@ -47,3 +47,8 @@
 * Walk through _The MERN Stack tutorial_ Part 2: Setting Up The Project - https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-2/
 * Continue building out Create react mern-todo-app project - https://github.com/benjamin-thompdx/mern-todo-app.git
 * Research/experiement with Bootstrap styling elements (forms, custom inputs, and buttons)
+
+## Monday | May 18th, 2020
+
+**8:00 A.M. - 9:00 A.M.** 
+* Gather documents and email internship details to Theorem Agency
