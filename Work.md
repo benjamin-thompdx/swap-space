@@ -68,8 +68,8 @@
       * Run 'npm install express body-parser cors mongoose' to add dependencies: express, body-parser, cors, and mongoose
     * Install Nodemon by running 'npm install -g nodemon'
     * Create server.js file to implement NodeJS/Express server
-    <!-- * Install MongoDB by running 'brew install mongodb'
-      * Create a data directory to be used by MongoDB 'mkdir -p /data/db' -->
+    * Install MongoDB by running 'brew install mongodb'
+      * Create a data directory to be used by MongoDB 'mkdir -p /data/db'
     <!-- * Create a MongoDB database with the name 'items' -->
     <!-- * Connect to MongoDB using Mongoose by updating server.js implementation -->
     <!-- * Create a Mongoose schema
