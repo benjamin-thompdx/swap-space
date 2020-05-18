@@ -57,5 +57,5 @@
 * Complete setup for building the front-end part of Swap Space using the MERN stack.
   * Install Bootstrap
   * Add and set up the React Router package
-  * Update boilerplate code for App.js, and the TradeControl, NewItemForm, and TradeItemList components
-  * Update basic layout and navigation menu with Bootstrap
+  * Update boilerplate code for App.js, as well as create-item.component, edit-item.component, and item-list.component components
+  * Update basic layout and navigation menu within App.js with Bootstrap
