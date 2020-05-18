@@ -52,3 +52,10 @@
 
 **8:00 A.M. - 9:00 A.M.** 
 * Gather documents and email internship details to Theorem Agency
+
+**9:00 A.M. - 11:00 A.M.**
+* Complete setup for building the front-end part of Swap Space using the MERN stack.
+  * Install Bootstrap
+  * Add and set up the React Router package
+  * Update boilerplate code for App.js, and the TradeControl, NewItemForm, and TradeItemList components
+  * Update basic layout and navigation menu with Bootstrap
