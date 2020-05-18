@@ -59,3 +59,6 @@
   * Add and set up the React Router package
   * Update boilerplate code for App.js, as well as create-item.component, edit-item.component, and item-list.component components
   * Update basic layout and navigation menu within App.js with Bootstrap
+
+  **1:00 P.M. - 2:00 P.M.**
+  * Walk through _The MERN Stack tutorial_ Part 2: Setting Up The Project - https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-2/
