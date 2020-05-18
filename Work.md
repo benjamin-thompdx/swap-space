@@ -63,18 +63,18 @@
   **1:00 P.M. - 4:00 P.M.**
   * Walk through _The MERN Stack tutorial_ Part 2: Setting Up The Project - https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-2/
   * Complete setup for building the back-end part of Swap Space using the MERN stack.
-    <!-- * Create backend directory
+    * Create backend directory
     * Create a package.json file w/in backend folder
       * Run 'npm install express body-parser cors mongoose' to add dependencies: express, body-parser, cors, and mongoose
     * Install Nodemon by running 'npm install -g nodemon'
-    * Create server.js file to implement NodeJS/Express server
-    * Install MongoDB by running 'brew install mongodb'
-      * Create a data directory to be used by MongoDB 'mkdir -p /data/db'
-    * Create a MongoDB database with the name 'items'
-    * Connect to MongoDB using Mongoose by updating server.js implementation
-    * Create a Mongoose schema
-      * Create a item.model.js file within the backend folder and add code to create Item schema
-    * Implement API endpoints
-    * Test the server API with Postman -->
+    <!-- * Create server.js file to implement NodeJS/Express server -->
+    <!-- * Install MongoDB by running 'brew install mongodb'
+      * Create a data directory to be used by MongoDB 'mkdir -p /data/db' -->
+    <!-- * Create a MongoDB database with the name 'items' -->
+    <!-- * Connect to MongoDB using Mongoose by updating server.js implementation -->
+    <!-- * Create a Mongoose schema
+      * Create a item.model.js file within the backend folder and add code to create Item schema -->
+    <!-- * Implement API endpoints -->
+    <!-- * Test the server API with Postman -->
 
 
