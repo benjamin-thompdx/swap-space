@@ -2,6 +2,10 @@ import React, { Component } from "react";
 import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import "bootstrap/dist/css/bootstrap.min.css";
 
+import CreateItem from './components/create-item.component';
+import EditItem from './components/edit-item.component';
+import ItemList from './components/item-list.component';
+
 class App extends Component {
   render() {
     return (
