@@ -6,6 +6,8 @@ import CreateItem from './components/create-item.component';
 import EditItem from './components/edit-item.component';
 import ItemList from './components/item-list.component';
 
+import logo from './logo.png';
+
 class App extends Component {
   render() {
     return (
