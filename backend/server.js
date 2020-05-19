@@ -47,6 +47,27 @@ itemRoutes.route('/add').post(function(req, res) {
       });
 });
 
+itemRoutes.route('/update/:id').post(function(req, res) {
+  Item.findById(req.params.id, function(err, item) {
+    if (!item)
+      res.status(404).send('data is not found');
+    else
+      item.item_name = req.body.item_name;
+      item.item_description = req.body.item_description;
+      item.item_image = req.body.item_image;
+      item.item_zipCode = req.body.item_zipCode;
+      item.item_value = req.body.item_value;
+      item.item_traded = req.body.item_traded;
+
+      item.save().then(item => {
+        res.json('Item updated');
+      })
+      .catch(err => {
+        res.status(400).send("Update not possible");
+      });
+  });
+});
+
 app.use('/items', itemRoutes);
 
 app.listen(PORT, function() {
