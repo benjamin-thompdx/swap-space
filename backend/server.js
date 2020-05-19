@@ -36,7 +36,16 @@ itemRoutes.route('/:id').get(function(req, res) {
   });
 });
 
-
+itemRoutes.route('/add').post(function(req, res) {
+  let item = new Item(req.body);
+  item.save()
+      .then(item => {
+        res.status(200).json({'item': 'item added successfully'});
+      })
+      .catch(err => {
+        res.status(400).send('adding new item failed');
+      });
+});
 
 app.use('/items', itemRoutes);
 
