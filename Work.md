@@ -88,8 +88,8 @@
 
 **2:00 P.M. - 4:00 P.M.**
 * Complete setup for connecting the front-end to the back-end of Swap Space using the MERN stack.
-  <!-- * Install Axios by running 'npm install axios' to utilize the Axios library to send HTTP request to the back-end of the application
-    * Import axios (import axios from 'axios') within the create-item.component.js component -->
+  * Install Axios by running 'npm install axios' to utilize the Axios library to send HTTP request to the back-end of the application
+    <!-- * Import axios (import axios from 'axios') within the create-item.component.js component -->
   <!-- * Write code responsible for sending the new item element's data to the back-end (POST request) within the onSubmit method of create-item.component.js component -->
   <!-- * Run application usins 'npm star' and fill out New Item form and submit, then check to make sure request successfully sent by making a GET request within Postman (http://localhost:4000/items) - If request returns a 200 OK and item details are displayed, the form is successfully making OST requests to the database -->
   <!-- * Within item-list.component.js component import "{ Link } from 'react-router-dom'" and "axios from 'axios'" -->
