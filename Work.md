@@ -86,4 +86,16 @@
 **1:00 P.M. - 2:00 P.M.**
 * Test the server API with Postman
 
+**2:00 P.M. - 4:00 P.M.**
+* Complete setup for connecting the front-end to the back-end of Swap Space using the MERN stack.
+  <!-- * Install Axios by running 'npm install axios' to utilize the Axios library to send HTTP request to the back-end of the application
+    * Import axios (import axios from 'axios') within the create-item.component.js component -->
+  <!-- * Write code responsible for sending the new item element's data to the back-end (POST request) within the onSubmit method of create-item.component.js component -->
+  <!-- * Run application usins 'npm star' and fill out New Item form and submit, then check to make sure request successfully sent by making a GET request within Postman (http://localhost:4000/items) - If request returns a 200 OK and item details are displayed, the form is successfully making OST requests to the database -->
+  <!-- * Within item-list.component.js component import "{ Link } from 'react-router-dom'" and "axios from 'axios'" -->
+  <!-- * Within the item-list.component.js component initialize the state with an empty items array -->
+  <!-- * Within the item-list.component.js component add the 'componentDidMount()' lifecycle method (GET request to access the /items endpoint) -->
+  <!-- * Update the return statement in the render function to display Swap Space items -->
+  <!-- * Create a itemList method to output a table row for each item object -->
+  <!-- * Within the item-list.component.js component implement the Item component which will output the table row that contains the values of the properties of the item object passed into that component -->
 
