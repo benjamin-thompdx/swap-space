@@ -18,7 +18,7 @@ class App extends Component {
             <a className='navbar-brand' href='https://benjaminthompdx.wordpress.com/' target='blank'>
               <img src={logo} width='120' height='120' alt='benjaminthompdx.wordpress.com' />
             </a>
-            <Link to='/' className='navbar-brand'>Swap Space</Link>
+            <Link to='/' className='navbar-brand'>A Neighborhood Trading Space</Link>
             <div className='collapse navbar-collapse'>
               <ul className='navbar-nav ml-auto'>
                 <li className='navbar-item'>
