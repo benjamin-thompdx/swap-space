@@ -78,10 +78,10 @@
 
 **9:00 A.M. - 12:00 P.M.** 
 * Create a MongoDB Compass database with the name 'items'
-<!-- * Connect to MongoDB using Mongoose by updating server.js implementation -->
-<!-- * Create a Mongoose schema
-  * Create a item.model.js file within the backend folder and add code to create Item schema -->
-<!-- * Implement API endpoints -->
+* Connect to MongoDB using Mongoose by updating server.js implementation
+* Create a Mongoose schema
+  * Create a item.model.js file within the backend folder and add code to create Item schema
+* Implement API endpoints
 <!-- * Test the server API with Postman -->
 
 
