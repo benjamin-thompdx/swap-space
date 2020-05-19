@@ -3,7 +3,10 @@ const app = express();
 const bodyParser = require('body-parser');
 const cors = require('cors');
 const mongoose = require('mongoose');
+const itemRoutes = express.Router();
 const PORT = 4000;
+
+let Item = require('./item.model');
 
 app.use(cors());
 app.use(bodyParser.json());
@@ -15,6 +18,20 @@ const connection = mongoose.connection;
 connection.once('open', function() {
   console.log('MongoDb database connection established successfully');
 })
+
+itemRoutes.route('/').get(function(req, res) {
+  Item.find(function(err, items) {
+    if (err) {
+      console.log(err);
+    } else {
+      res.json(items);
+    }
+  });
+});
+
+
+
+app.use('/items', itemRoutes);
 
 app.listen(PORT, function() {
   console.log("Server is running on Port: " + PORT);
