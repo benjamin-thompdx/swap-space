@@ -84,6 +84,6 @@
 * Implement API endpoints
 
 **1:00 P.M. - 2:00 P.M.**
-<!-- * Test the server API with Postman -->
+* Test the server API with Postman
 
 
