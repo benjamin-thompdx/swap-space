@@ -6,13 +6,12 @@ const mongoose = require('mongoose');
 const itemRoutes = express.Router();
 const PORT = 4000;
 
-let Item = require('./item.model');
+let Item = require('./item.model').default;
 
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb://127.0.0.1:27017/items', { useUnifiedTopology: true,
-useNewUrlParser: true });
+mongoose.connect("mongodb+srv://jaminthom:Lifeisgoodmd1%21@cluster0-ea63n.mongodb.net/test?retryWrites=true", {useNewUrlParser: true, useUnifiedTopology: true});
 const connection = mongoose.connection;
 
 connection.once('open', function() {
