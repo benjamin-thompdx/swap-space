@@ -95,13 +95,16 @@
 
 ## Wednesday | May 20th, 2020
 
-8:00 A.M. - 9:00 A.M.
+**8:00 A.M. - 9:00 A.M.**
 * Gather documents and email internship details to Go Paladin Incorporated
 
-9:00 A.M. - 10:00 A.M.
+**9:00 A.M. - 10:00 A.M.**
 * Gather documents and email internship details to Goalden Hour
 
-10:00 A.M. - 12:00 P.M.
+**10:00 A.M. - 12:30 P.M.**
+* Troubleshoot MongoDb connection error: connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused
+
+**1:30 P.M. - 4:00 P.M.**
 <!-- * Import axios (import axios from 'axios') within the create-item.component.js component -->
 <!-- * Write code responsible for sending the new item element's data to the back-end (POST request) within the onSubmit method of create-item.component.js component -->
 <!-- * Run application usins 'npm star' and fill out New Item form and submit, then check to make sure request successfully sent by making a GET request within Postman (http://localhost:4000/items) - If request returns a 200 OK and item details are displayed, the form is successfully making OST requests to the database -->
