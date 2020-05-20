@@ -104,6 +104,9 @@
 **10:00 A.M. - 12:30 P.M.**
 * Troubleshoot MongoDb connection error: connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused
 
+**12:30 P.M. - 1:00 P.M.**
+* Walk through MongoDb Atlas tutorial - https://www.google.com/search?q=how+to+use+mongo+atals+with+react+app&oq=how+to+use+mongo+atals+with+react+app&aqs=chrome..69i57.7854j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_iIjFXt6cOY_6-gSRupKICw39
+
 **1:30 P.M. - 4:00 P.M.**
 <!-- * Import axios (import axios from 'axios') within the create-item.component.js component -->
 <!-- * Write code responsible for sending the new item element's data to the back-end (POST request) within the onSubmit method of create-item.component.js component -->
