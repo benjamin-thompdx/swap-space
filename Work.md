@@ -99,7 +99,7 @@
 * Gather documents and email internship details to Go Paladin Incorporated
 
 9:00 A.M. - 10:00 A.M.
-<!-- * Gather documents and email internship details to Goalden Hour -->
+* Gather documents and email internship details to Goalden Hour
 
 10:00 A.M. - 12:00 P.M.
 <!-- * Import axios (import axios from 'axios') within the create-item.component.js component -->
