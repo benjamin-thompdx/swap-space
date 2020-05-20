@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import axios from 'axios';
 
 export default class CreateItem extends Component {
 
@@ -62,7 +63,18 @@ export default class CreateItem extends Component {
     console.log(`Item Zip Code: ${this.state.item_zipCode}`);
     console.log(`Item Value: ${this.state.item_value}`);
     console.log(`Item Traded: ${this.state.item_traded}`);
-    //onSubmit logic will go here
+
+    const newItem = {
+      item_name: this.state.item_name,
+      item_description: this.state.item_description,
+      item_image: this.state.item_image,
+      item_zipCode: this.state.item_zipCode,
+      item_value: this.state.item_value,
+      item_traded: this.state.item_traded  
+    }
+
+    axios.post('http://localhost:4000/items/add', newItem)
+      .then(res => console.log(res.data));
 
     this.setState({
       item_name: '',
