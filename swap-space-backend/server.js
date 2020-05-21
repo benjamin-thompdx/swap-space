@@ -11,10 +11,11 @@ let Item = require('./item.model');
 app.use(cors());
 app.use(bodyParser.json());
 
-mongoose.connect('mongodb://127.0.0.1:27017/items', { useNewUrlParser: true, useUnifiedTopology: true });
-const connection = mongoose.connection;
 
-connection.once('open', function() {
+var mongoURI = "mongodb://127.0.0.1:27017/items";
+var mongoDB = mongoose.connect(mongoURI).connection;
+
+mongoDB.once('open', function() {
   console.log('MongoDb database connection established successfully');
 })
 
