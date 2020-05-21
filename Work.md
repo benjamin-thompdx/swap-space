@@ -108,6 +108,13 @@
 * Walk through MongoDb Atlas tutorial - https://www.google.com/search?q=how+to+use+mongo+atals+with+react+app&oq=how+to+use+mongo+atals+with+react+app&aqs=chrome..69i57.7854j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_iIjFXt6cOY_6-gSRupKICw39
 * Trouble shoot error: POST http://localhost:4000/items/add 500 (Internal Server Error)
 
+## Thursday | May 21st, 2020
+
+**7:00 A.M. - 8:00 A.M.**
+* Update README.md
+* Clean up comments and indentation
+* Prep for 5-minute presentation
+
 **Items To Complete**
 <!-- * Import axios (import axios from 'axios') within the create-item.component.js component -->
 <!-- * Write code responsible for sending the new item element's data to the back-end (POST request) within the onSubmit method of create-item.component.js component -->
