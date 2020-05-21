@@ -104,14 +104,14 @@
 **10:00 A.M. - 12:30 P.M.**
 * Troubleshoot MongoDb connection error: connection attempt failed: SocketException: Error connecting to 127.0.0.1:27017 :: caused by :: Connection refused
 
-**12:30 P.M. - 2:30 P.M.**
+**12:30 P.M. - 6:30 P.M.**
 * Walk through MongoDb Atlas tutorial - https://www.google.com/search?q=how+to+use+mongo+atals+with+react+app&oq=how+to+use+mongo+atals+with+react+app&aqs=chrome..69i57.7854j0j4&sourceid=chrome&ie=UTF-8#kpvalbx=_iIjFXt6cOY_6-gSRupKICw39
 * Trouble shoot error: POST http://localhost:4000/items/add 500 (Internal Server Error)
 
-**3:30 P.M. - 4:45 P.M.**
+**Items To Complete**
 <!-- * Import axios (import axios from 'axios') within the create-item.component.js component -->
 <!-- * Write code responsible for sending the new item element's data to the back-end (POST request) within the onSubmit method of create-item.component.js component -->
-<!-- * Run application usins 'npm star' and fill out New Item form and submit, then check to make sure request successfully sent by making a GET request within Postman (http://localhost:4000/items) - If request returns a 200 OK and item details are displayed, the form is successfully making OST requests to the database -->
+<!-- * Run application usins 'npm start' and fill out New Item form and submit, then check to make sure request successfully sent by making a GET request within Postman (http://localhost:4000/items) - If request returns a 200 OK and item details are displayed, the form is successfully making OST requests to the database -->
 <!-- * Within item-list.component.js component import "{ Link } from 'react-router-dom'" and "axios from 'axios'" -->
 <!-- * Within the item-list.component.js component initialize the state with an empty items array -->
 <!-- * Within the item-list.component.js component add the 'componentDidMount()' lifecycle method (GET request to access the /items endpoint) -->
